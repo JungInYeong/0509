@@ -24,7 +24,7 @@ class Custom_Info
 	string Custom_Name;		// 이름
 	string Account_Num;		// 계좌번호
 	string Phone_Number;		// 전화번호
-	string Man_ID;			// 관리지점 ID
+	string Manage_ID;		// 관리지점 ID
 
 public:
 	void Show_Info();	// 계좌 확인
