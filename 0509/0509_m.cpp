@@ -29,7 +29,7 @@ class Custom_Info
 public:
 	void Show_Info();	// 계좌 확인
 	void Money_Depsoit();	// 계좌 이체
-	void Bank_Ad_Del();		// 지점 추가/삭제
+	void Bank_Ad_Del();	// 지점 추가/삭제
 	void Custom_Check();	// 고객 정보 확인
 	
 };
@@ -44,7 +44,7 @@ class Bank_Info
 	
 public:
 	void New_Account();		// 신규계좌 개설
-	void Custom_Ad_Del();	// 고객 등록/삭제
+	void Custom_Ad_Del();		// 고객 등록/삭제
 	void Bank_Check();		// 지점 정보 확인
 };
 
