@@ -16,7 +16,7 @@ using namespace std;
 	1. 고객정보 - 고객ID / 이름 / 계좌번호 / 전화 번호 / 관리 지점 ID
 	2. 은행 정보 - 지점ID / 주소 / 고객 ID / 고객 수 / 활성 계좌 수
 	
-	결과 잘 모르겠다.
+	결론 잘 모르겠다.
 */
 
 class Custom_Info
